@@ -12,6 +12,8 @@
 		FF3369B821946843002E31A4 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FF3369B621946843002E31A4 /* Main.storyboard */; };
 		FF3369BA21946845002E31A4 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FF3369B921946845002E31A4 /* Assets.xcassets */; };
 		FF3369BD21946845002E31A4 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FF3369BB21946845002E31A4 /* LaunchScreen.storyboard */; };
+		FF3369C521946B34002E31A4 /* ViewController2.swift in Sources */ = {isa = PBXBuildFile; fileRef = FF3369C421946B34002E31A4 /* ViewController2.swift */; };
+		FF3369C721946BC7002E31A4 /* ViewController3.swift in Sources */ = {isa = PBXBuildFile; fileRef = FF3369C621946BC7002E31A4 /* ViewController3.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +24,8 @@
 		FF3369B921946845002E31A4 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		FF3369BC21946845002E31A4 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		FF3369BE21946845002E31A4 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		FF3369C421946B34002E31A4 /* ViewController2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController2.swift; sourceTree = "<group>"; };
+		FF3369C621946BC7002E31A4 /* ViewController3.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController3.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +60,8 @@
 			children = (
 				FF3369B221946843002E31A4 /* AppDelegate.swift */,
 				FF3369B421946843002E31A4 /* ViewController.swift */,
+				FF3369C421946B34002E31A4 /* ViewController2.swift */,
+				FF3369C621946BC7002E31A4 /* ViewController3.swift */,
 				FF3369B621946843002E31A4 /* Main.storyboard */,
 				FF3369B921946845002E31A4 /* Assets.xcassets */,
 				FF3369BB21946845002E31A4 /* LaunchScreen.storyboard */,
@@ -137,6 +143,8 @@
 			files = (
 				FF3369B521946843002E31A4 /* ViewController.swift in Sources */,
 				FF3369B321946843002E31A4 /* AppDelegate.swift in Sources */,
+				FF3369C721946BC7002E31A4 /* ViewController3.swift in Sources */,
+				FF3369C521946B34002E31A4 /* ViewController2.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
